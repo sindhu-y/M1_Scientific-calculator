@@ -1,4 +1,6 @@
 # certificates
-1.Sololearn
-2.NDG Linux
-Github
+Sololearn
+NDG Linux
+Git
+first day on github
+
